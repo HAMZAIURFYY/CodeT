@@ -1,3 +1,4 @@
 tiktoken==0.1.2
 transformers==4.24.0
 editdistance==0.6.2
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
